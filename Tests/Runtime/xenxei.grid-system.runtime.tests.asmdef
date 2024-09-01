@@ -1,0 +1,20 @@
+{
+    "name": "xenxei.grid-system.runtime.tests",
+    "rootNamespace": "",
+    "references": [
+        "GUID:bfd3e7b64291a26449e764f7106db373"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
