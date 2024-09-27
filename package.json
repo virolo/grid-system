@@ -1,11 +1,11 @@
 {
-    "name": "me.xenxei.gridsystem",
-    "version": "1.0.0",
-    "displayName": "Grid System",
-    "description": "Manages a grid system like data structure",
-    "author": {
-        "name": "Victor Romero",
-        "email": "victor@romero.tech",
-        "url": "https://www.xenxei.me"
-    }
+  "name": "me.xenxei.gridsystem",
+  "version": "0.1.0",
+  "displayName": "Grid System",
+  "description": "Manages a grid system like data structure",
+  "author": {
+    "name": "Victor Romero",
+    "email": "victor@romero.tech",
+    "url": "https://www.xenxei.me"
+  }
 }
